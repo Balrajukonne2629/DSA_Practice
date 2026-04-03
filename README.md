@@ -32,5 +32,6 @@ To make reviewing concepts easier, all problems are organized by their core algo
 | ID | Problem | Difficulty | Link |
 | :--- | :--- | :---: | :--- |
 | 875 | koko eating bananas | Medium | [View Solution](./Binary_Search/875.%20Koko%20Eating%20Bananas.md) |
+| 410 | Split Array Largest Sum | Hard | [View Solution](./Binary_Search/410.%20Split%20Array%20Largest%20Sum.md) |    
 ---
 *Regularly updating as I solve new problems and prepare for full-stack development roles.*
