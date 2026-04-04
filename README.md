@@ -20,7 +20,7 @@ To make reviewing concepts easier, all problems are organized by their core algo
 ###  Prefix Sum & Hashing
 | ID | Problem | Difficulty | Link |
 | :--- | :--- | :---: | :--- |
-| 523 | Continuous Subarray Sum | Medium | [View Solution](./Prefix_Sum_and_Hashing/523.%20Continous%20Subarray%20Sum.md) |
+| 523 | Continuous Subarray Sum | Medium | [View Solution](./Prefix_Sum_and_Hashing/523.%20Continuous%20Subarray%20Sum.md) |
 | 560 | Subarray Sum Equals K | Medium | [View Solution](./Prefix_Sum_and_Hashing/560.%20Subarray%20Sum%20Equals%20K.md) |
 | 930 | Binary Subarrays With Sum | Medium | [View Solution](./Prefix_Sum_and_Hashing/930.%20Binary%20Subarrays%20With%20Sum.md) |
 | 974 | Subarray Sums Divisible by K | Medium | [View Solution](./Prefix_Sum_and_Hashing/974.%20Subarray%20Sums%20Divisible%20by%20K.md) |
