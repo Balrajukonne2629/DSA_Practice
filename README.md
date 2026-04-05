@@ -33,6 +33,7 @@ To make reviewing concepts easier, all problems are organized by their core algo
 | ID | Problem | Difficulty | Link |
 | :--- | :--- | :---: | :--- |
 | 875 | koko eating bananas | Medium | [View Solution](./Binary_Search/875.%20Koko%20Eating%20Bananas.md) |
-| 410 | Split Array Largest Sum | Hard | [View Solution](./Binary_Search/410.%20Split%20Array%20Largest%20Sum.md) |    
+| 1011| Capacity To Ship Packages Within D Days | Medium | [View Solution](./Binary_Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) |
+| 410 | Split Array Largest Sum | Hard | [View Solution](./Binary_Search/410.%20Split%20Array%20Largest%20Sum.md) |
 ---
 *Regularly updating as I solve new problems and prepare for full-stack development roles.*
