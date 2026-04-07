@@ -4,7 +4,7 @@ Welcome to my Data Structures and Algorithms repository! This space is dedicated
 
 Instead of just uploading raw code, I focus on creating comprehensive documentation for each problem. Every solution file includes my personal intuition, a step-by-step breakdown of the approach, time and space complexity analysis, and the final optimized code. 
 
-*Note: All solutions in this repository are written in **C++**.*
+*Note: All solutions in this repository are written in **C++** only.*
 
 ## 📂 Problem Index by Pattern
 
