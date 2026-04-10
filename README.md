@@ -8,7 +8,7 @@ Instead of just uploading raw code, I focus on creating comprehensive documentat
 
 ## 📂 Problem Index by Pattern
 
-To make reviewing concepts easier, all problems are organized by their core algorithmic pattern.
+To make reviewing concepts easier, all problems are organized by their *core algorithmic pattern*.
 
 ###  Sliding Window
 | ID | Problem | Difficulty | Link |
