@@ -6,7 +6,7 @@ Instead of just uploading raw code, I focus on creating comprehensive documentat
 
 *Note: All solutions in this repository are written in **C++** only. *
 
-## 📂 Problem Index by Pattern
+## 📂 Problem Index by Pattern 
 
 To make reviewing concepts easier, all problems are organized by their *core algorithmic pattern*.
 
