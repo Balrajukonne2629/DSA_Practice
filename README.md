@@ -41,6 +41,7 @@ To make reviewing concepts easier, all problems are organized by their *core alg
 | :--- | :--- | :---: | :--- |
 | 84 | Largest Rectangle in Histogram| Hard | [View Solution](./Monotonic_Stack/84.%20Largest%20Rectangle%20in%20Histogram.md) |
 | 402 | Remove K digits | Medium | [View Solution](./Monotonic_Stack/402.Remove%20K%20digits.md) |
+| 853 | Car Fleet | Medium | [View Solution](./Monotonic_Stack/853.Car%20Fleet.md) |
 ---
 
 *Regularly updating as I solve new problems and prepare for full-stack development roles.*
